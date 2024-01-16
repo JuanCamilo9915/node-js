@@ -16,7 +16,7 @@ En la rama `project-node`, encontrarás ejemplos que incluyen manejo de archivos
 
 ### `project-node-express`
 
-En la rama `project-node-express`, encontrarás ejemplos que incluyen el uso de express y otras técnicas adicionales que nos brida este entorno de trabajo para Node-JS.
+En la rama `project-node-express`, encontrarás ejemplos que incluyen el uso de express y otras técnicas adicionales como APIRestFull que nos brida este entorno de trabajo para Node-JS.
 
 ## Instrucciones de Ejecución
 
