@@ -1,7 +1,7 @@
 # Proyecto de Aprendizaje Node-JS
 
 Este repositorio contiene ejemplos prácticos sobre Node-JS,
-el cual se divide en 2 ramas `main`, `project-node` y `project-node-express`.
+el cual se divide en 3 ramas `main`, `project-node` y `project-node-express`.
 
 ## Ramas
 
