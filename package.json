@@ -6,9 +6,14 @@
   "type": "module",
   "scripts": {
     "start-back": "node ./src/index.js",
+    "start-back-watch": "node --watch ./src/index.js",
+    "start-back-nodemon": "nodemon ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
